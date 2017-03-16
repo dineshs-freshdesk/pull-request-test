@@ -1,0 +1,153 @@
+2017-01-09 21:11:00 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:11:01 INFO  file:43 - Setting URL: https://kctest.freshdesk.com/support/tickets/new
+2017-01-09 21:11:06 INFO  file:43 - Getting localized data for keyword uxasennewq-0081@yopmail.com
+2017-01-09 21:11:06 INFO  file:43 - Sending keys
+2017-01-09 21:11:06 INFO  file:43 - Finding element by identifier helpdesk_ticket_email using id
+2017-01-09 21:11:07 INFO  file:43 - Getting localized data for keyword Creating Sample Ticket in Subject Form
+2017-01-09 21:11:07 INFO  file:43 - Sending keys
+2017-01-09 21:11:07 INFO  file:43 - Finding element by identifier helpdesk_ticket_subject using id
+2017-01-09 21:11:07 INFO  file:43 - Finding element by identifier helpdesk_ticket_ticket_body_attributes_description_html using id
+2017-01-09 21:11:07 INFO  file:43 - Getting localized data for keyword Creating Sample Description for description form
+2017-01-09 21:11:07 INFO  file:43 - Sending keys
+2017-01-09 21:11:07 INFO  file:43 - Finding element by identifier helpdesk_ticket_ticket_body_attributes_description_html using id
+2017-01-09 21:11:07 INFO  file:43 - Finding element by identifier helpdesk_ticket_submit using id
+2017-01-09 21:11:07 INFO  file:43 - Waiting for element [notice] to appear for 10 seconds.
+2017-01-09 21:11:07 INFO  file:43 - Finding element by identifier notice using id
+2017-01-09 21:11:07 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:11:09 INFO  file:43 - Waiting for time: 1 seconds 
+2017-01-09 21:11:10 INFO  file:43 - Getting the text value...
+2017-01-09 21:11:10 INFO  file:43 - Finding element by identifier notice using id
+2017-01-09 21:11:10 INFO  file:43 - The text value is:×
+Your account has been suspended please contact your account administrator
+2017-01-09 21:11:11 INFO  file:43 - Closing browser.
+2017-01-09 21:11:11 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:25:19 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:25:19 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:25:22 INFO  file:43 - Getting localized data for keyword ft_employee1@freshhr.com
+2017-01-09 21:25:22 INFO  file:43 - Sending keys
+2017-01-09 21:25:22 INFO  file:43 - Finding element by identifier input[type='email'] using cssselector
+2017-01-09 21:25:22 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:25:22 INFO  file:43 - Sending keys
+2017-01-09 21:25:22 INFO  file:43 - Finding element by identifier input[type='password'] using cssselector
+2017-01-09 21:28:24 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:28:25 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:28:28 INFO  file:43 - Getting localized data for keyword ft_employee1@freshhr.com
+2017-01-09 21:28:28 INFO  file:43 - Sending keys
+2017-01-09 21:28:28 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:28:28 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:28:28 INFO  file:43 - Sending keys
+2017-01-09 21:28:28 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:28:29 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:28:29 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:28:29 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:28:29 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:28:31 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (2f4a98d24c8a34cbd79152120e4fb598)] -> xpath: //button[@type='submit']]
+2017-01-09 21:31:38 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:31:39 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:31:42 INFO  file:43 - Waiting for element [//input[@type='email']] to appear for 60 seconds.
+2017-01-09 21:31:42 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:31:43 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:31:45 INFO  file:43 - Getting localized data for keyword ft_employee1@freshhr.com
+2017-01-09 21:31:45 INFO  file:43 - Sending keys
+2017-01-09 21:31:45 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:31:45 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:31:45 INFO  file:43 - Sending keys
+2017-01-09 21:31:45 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:31:45 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:31:45 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:31:45 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:31:45 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:31:47 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (935a4f811c6930d112e9e6f1c8669681)] -> xpath: //button[@type='submit']]
+2017-01-09 21:35:58 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:35:59 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:36:01 INFO  file:43 - Waiting for element [//input[@type='email']] to appear for 60 seconds.
+2017-01-09 21:36:01 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:36:02 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:36:04 INFO  file:43 - Getting localized data for keyword ft_employee1@freshhr.com
+2017-01-09 21:36:04 INFO  file:43 - Sending keys
+2017-01-09 21:36:04 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:36:04 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:36:04 INFO  file:43 - Sending keys
+2017-01-09 21:36:04 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:36:05 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:36:05 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:36:05 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:36:05 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:36:07 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (65f990be4961d10d87027112d439ee2a)] -> xpath: //button[@type='submit']]
+2017-01-09 21:36:07 INFO  file:43 - Waiting for element [//a[text()='Dashboard']] to appear for 60 seconds.
+2017-01-09 21:36:07 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:36:09 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:36:11 INFO  file:43 - Checking for element present: //a[text()='Dashboard']
+2017-01-09 21:36:11 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:40:41 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:40:42 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:40:46 INFO  file:43 - Waiting for element [//input[@type='email']] to appear for 60 seconds.
+2017-01-09 21:40:46 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:40:47 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:40:49 INFO  file:43 - Getting localized data for keyword ft_employee1@freshhr.com
+2017-01-09 21:40:49 INFO  file:43 - Sending keys
+2017-01-09 21:40:49 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:40:49 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:40:49 INFO  file:43 - Sending keys
+2017-01-09 21:40:49 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:40:49 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:40:49 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:40:49 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:40:49 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:40:51 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (8d9a55ced1ca7128d14cbff27ef0d2f9)] -> xpath: //button[@type='submit']]
+2017-01-09 21:40:51 INFO  file:43 - Waiting for element [//a[text()='Dashboard']] to appear for 60 seconds.
+2017-01-09 21:40:51 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:40:54 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:40:56 INFO  file:43 - Checking for element present: //a[text()='Dashboard']
+2017-01-09 21:40:56 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:43:47 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:43:47 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:43:50 INFO  file:43 - Waiting for element [//input[@type='email']] to appear for 60 seconds.
+2017-01-09 21:43:50 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:43:51 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:43:53 INFO  file:43 - Getting localized data for keyword ft_employee3@freshhr.com
+2017-01-09 21:43:53 INFO  file:43 - Sending keys
+2017-01-09 21:43:53 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:43:54 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:43:54 INFO  file:43 - Sending keys
+2017-01-09 21:43:54 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:43:54 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:43:54 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:43:54 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:43:54 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:43:56 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (d99321b2c57d55215e6fb958f6e93b75)] -> xpath: //button[@type='submit']]
+2017-01-09 21:43:56 INFO  file:43 - Waiting for element [//a[text()='Dashboard']] to appear for 60 seconds.
+2017-01-09 21:43:56 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:44:16 INFO  file:43 - Checking for element present: //a[text()='Dashboard']
+2017-01-09 21:44:16 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:44:16 ERROR file:30 - Element not foundchrome not reachable
+  (Session info: chrome=55.0.2883.95)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Mac OS X 10.11.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'FDLMC1074.local', ip: '192.168.18.108', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=/var/folders/79/x75r469j20xc6cm4jt01v_zr0000gp/T/.org.chromium.Chromium.XSmh7J}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.95, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: d99321b2c57d55215e6fb958f6e93b75
+*** Element info: {Using=xpath, value=//a[text()='Dashboard']}
+2017-01-09 21:44:43 INFO  file:43 - Initializing driver for chrome
+2017-01-09 21:44:43 INFO  file:43 - Setting URL: https://automation1.freshhr.com/login
+2017-01-09 21:44:47 INFO  file:43 - Waiting for element [//input[@type='email']] to appear for 60 seconds.
+2017-01-09 21:44:47 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:44:47 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:44:49 INFO  file:43 - Getting localized data for keyword ft_employee5@freshhr.com
+2017-01-09 21:44:49 INFO  file:43 - Sending keys
+2017-01-09 21:44:49 INFO  file:43 - Finding element by identifier //input[@type='email'] using xpath
+2017-01-09 21:44:50 INFO  file:43 - Getting localized data for keyword freshteam123
+2017-01-09 21:44:50 INFO  file:43 - Sending keys
+2017-01-09 21:44:50 INFO  file:43 - Finding element by identifier //input[@type='password'] using xpath
+2017-01-09 21:44:50 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:44:50 INFO  file:43 - Waiting for element [//button[@type='submit']] to appear for 12 seconds.
+2017-01-09 21:44:50 INFO  file:43 - Finding element by identifier //button[@type='submit'] using xpath
+2017-01-09 21:44:50 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:44:52 INFO  file:43 - Clicking on element: [[ChromeDriver: chrome on MAC (02abfd87188a6d905236ff719304bfb9)] -> xpath: //button[@type='submit']]
+2017-01-09 21:44:52 INFO  file:43 - Waiting for element [//a[text()='Dashboard']] to appear for 60 seconds.
+2017-01-09 21:44:52 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
+2017-01-09 21:44:54 INFO  file:43 - Waiting for time: 2 seconds 
+2017-01-09 21:44:56 INFO  file:43 - Checking for element present: //a[text()='Dashboard']
+2017-01-09 21:44:56 INFO  file:43 - Finding element by identifier //a[text()='Dashboard'] using xpath
